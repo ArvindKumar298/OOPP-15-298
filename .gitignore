@@ -1,0 +1,4 @@
+*.exe
+*/*.exe
+
+# whitelist files with extension and source code :
